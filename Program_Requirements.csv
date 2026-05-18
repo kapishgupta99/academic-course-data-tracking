@@ -1,0 +1,23 @@
+Program,Requirement Category,Course Code,Course Title,Credits,Required/Elective,Min Grade,Notes
+M.S. Computer Science,Core,CS5100,Foundations of AI,4,Required,B,
+M.S. Computer Science,Core,CS5200,Database Management Systems,4,Required,B,
+M.S. Computer Science,Core,CS5800,Algorithms,4,Required,B,
+M.S. Computer Science,Core,CS5010,Programming Design Paradigm,4,Required,B,
+M.S. Computer Science,Elective,CS6140,Machine Learning,4,Elective,B-,Popular elective
+M.S. Computer Science,Elective,CS6240,Large-Scale Parallel Data Processing,4,Elective,B-,
+M.S. Computer Science,Elective,CS5500,Foundations of Software Engineering,4,Elective,B-,
+M.S. Computer Science,Elective,CS6220,Data Mining Techniques,4,Elective,B-,Cross-listed with DA
+M.S. Data Analytics,Core,DA5020,Collecting Storing and Retrieving Data,4,Required,B,
+M.S. Data Analytics,Core,DA5110,Data Management for Engineering,4,Required,B,
+M.S. Data Analytics,Core,DA5030,Introduction to Machine Learning,4,Required,B,Prereq: DA5020
+M.S. Data Analytics,Core,DA6100,Applied Probability and Statistics,4,Required,B,
+M.S. Data Analytics,Elective,DA5220,Data Mining,4,Elective,B-,
+M.S. Data Analytics,Elective,DA5240,Statistical Learning,4,Elective,B-,
+M.S. Data Analytics,Elective,DA6040,Data Engineering,4,Elective,B-,
+M.S. Data Analytics,Elective,DA6350,MLOps,4,Elective,B-,New course
+M.S. Industrial Engineering,Core,IE7280,Statistical Methods in Engineering,4,Required,B,
+M.S. Industrial Engineering,Core,IE6600,Computation and Visualization,4,Required,B,
+M.S. Industrial Engineering,Elective,IE7275,Data Mining in Engineering,4,Elective,B-,
+M.S. Industrial Engineering,Elective,IE7300,Statistical Quality Control,4,Elective,B-,
+M.S. Industrial Engineering,Elective,IE7374,Deep Learning,4,Elective,B-,Prereq: IE7275
+M.S. Industrial Engineering,Elective,IE7200,Optimization Methods,4,Elective,B-,

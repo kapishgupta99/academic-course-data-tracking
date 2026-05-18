@@ -1,0 +1,23 @@
+Course Code,Course Title,Credits,Department,Delivery Mode,Capacity,Current Enrollment,Utilization %,Semester,Status,Prerequisites,Instructor,Last Updated
+CS5100,Foundations of AI,4,Computer Science,In-Person,60,47,0.783333333333333,Fall 2025,Open,None,Prof. Lee,2026-01-15 00:00:00
+CS5200,Database Management Systems,4,Computer Science,Hybrid,50,39,0.78,Spring 2026,Open,None,Dr. Johnson,2026-01-15 00:00:00
+CS5800,Algorithms,4,Computer Science,In-Person,55,47,0.854545454545455,Spring 2026,Open,None,Dr. Chen,2026-01-15 00:00:00
+CS6140,Machine Learning,4,Computer Science,In-Person,45,37,0.822222222222222,Spring 2026,Open,CS5100,Dr. Patel,2026-01-15 00:00:00
+CS6240,Large-Scale Parallel Data Processing,4,Computer Science,In-Person,40,24,0.6,Fall 2025,Open,CS5800,Dr. Johnson,2026-01-15 00:00:00
+CS5010,Programming Design Paradigm,4,Computer Science,In-Person,65,59,0.907692307692308,Spring 2026,Open,None,Dr. Chen,2026-01-15 00:00:00
+CS5500,Foundations of Software Engineering,4,Computer Science,Hybrid,50,49,0.98,Spring 2026,Open,None,Dr. Kumar,2026-01-15 00:00:00
+CS6220,Data Mining Techniques,4,Computer Science,In-Person,40,27,0.675,Fall 2025,Open,CS5200,Prof. Lee,2026-01-15 00:00:00
+DA5020,Collecting Storing and Retrieving Data,4,Data Analytics,Hybrid,45,34,0.755555555555556,Fall 2025,Open,None,Dr. Patel,2026-01-15 00:00:00
+DA5030,Introduction to Machine Learning,4,Data Analytics,In-Person,50,44,0.88,Fall 2025,Open,DA5020,Prof. Lee,2026-01-15 00:00:00
+DA6040,Data Engineering,4,Data Analytics,In-Person,35,29,0.828571428571429,Spring 2026,Open,DA5020,Dr. Chen,2026-01-15 00:00:00
+DA6100,Applied Probability and Statistics,4,Data Analytics,Online,60,30,0.5,Fall 2025,Open,None,Prof. Lee,2026-01-15 00:00:00
+DA5110,Data Management for Engineering,4,Data Analytics,In-Person,40,31,0.775,Spring 2026,Open,None,Dr. Patel,2026-01-15 00:00:00
+DA5220,Data Mining,4,Data Analytics,In-Person,45,26,0.577777777777778,Fall 2025,Open,DA5110,Prof. Garcia,2026-01-15 00:00:00
+DA5240,Statistical Learning,4,Data Analytics,Hybrid,40,21,0.525,Spring 2026,Open,DA5110,Dr. Chen,2026-01-15 00:00:00
+DA6350,MLOps,4,Data Analytics,In-Person,35,25,0.714285714285714,Spring 2026,Open,DA5030,Dr. Johnson,2026-01-15 00:00:00
+IE7280,Statistical Methods in Engineering,4,Industrial Engineering,In-Person,40,38,0.95,Fall 2025,Open,None,Dr. Kumar,2026-01-15 00:00:00
+IE7275,Data Mining in Engineering,4,Industrial Engineering,Hybrid,35,28,0.8,Spring 2026,Open,IE6600,Prof. Garcia,2026-01-15 00:00:00
+IE6600,Computation and Visualization,4,Industrial Engineering,In-Person,45,23,0.511111111111111,Spring 2026,Open,None,Prof. Lee,2026-01-15 00:00:00
+IE7300,Statistical Quality Control,4,Industrial Engineering,In-Person,30,22,0.733333333333333,Fall 2025,Open,None,Dr. Chen,2026-01-15 00:00:00
+IE7374,Deep Learning,4,Industrial Engineering,In-Person,35,28,0.8,Spring 2026,Open,IE7275,Dr. Smith,2026-01-15 00:00:00
+IE7200,Optimization Methods,4,Industrial Engineering,Hybrid,30,16,0.533333333333333,Fall 2025,Open,None,Prof. Lee,2026-01-15 00:00:00

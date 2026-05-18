@@ -1,0 +1,153 @@
+Student ID,Student Name,Program,Semester,Course Code,Course Title,Credits,Selection Status,Date Selected,Advisor Approved
+NEU100000,Sofia Sharma,M.S. Data Analytics,Fall 2025,CS5010,Programming Design Paradigm,4,Waitlisted,2026-02-28 00:00:00,No
+NEU100000,Sofia Sharma,M.S. Data Analytics,Fall 2025,DA5030,Introduction to Machine Learning,4,Confirmed,2026-03-10 00:00:00,Yes
+NEU100000,Sofia Sharma,M.S. Data Analytics,Fall 2025,CS6220,Data Mining Techniques,4,Confirmed,2026-01-26 00:00:00,Yes
+NEU100000,Sofia Sharma,M.S. Data Analytics,Fall 2025,CS6240,Large-Scale Parallel Data Processing,4,Confirmed,2026-02-21 00:00:00,Yes
+NEU100001,Aisha Garcia,M.S. Data Analytics,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-03-11 00:00:00,Yes
+NEU100001,Aisha Garcia,M.S. Data Analytics,Spring 2026,CS5200,Database Management Systems,4,Confirmed,2026-02-11 00:00:00,Yes
+NEU100002,Emma Rodriguez,M.S. Computer Science,Fall 2025,DA5110,Data Management for Engineering,4,Confirmed,2026-04-12 00:00:00,Yes
+NEU100002,Emma Rodriguez,M.S. Computer Science,Fall 2025,CS6140,Machine Learning,4,Pending,2026-02-07 00:00:00,No
+NEU100002,Emma Rodriguez,M.S. Computer Science,Fall 2025,DA5030,Introduction to Machine Learning,4,Waitlisted,2026-03-20 00:00:00,No
+NEU100003,Sofia Kumar,M.S. Data Analytics,Spring 2026,DA5240,Statistical Learning,4,Confirmed,2026-01-04 00:00:00,Yes
+NEU100003,Sofia Kumar,M.S. Data Analytics,Spring 2026,DA5110,Data Management for Engineering,4,Confirmed,2026-02-20 00:00:00,Yes
+NEU100003,Sofia Kumar,M.S. Data Analytics,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-02-06 00:00:00,Yes
+NEU100004,Yuki Patel,M.S. Industrial Engineering,Fall 2025,CS5200,Database Management Systems,4,Pending,2026-01-08 00:00:00,Pending
+NEU100004,Yuki Patel,M.S. Industrial Engineering,Fall 2025,CS6220,Data Mining Techniques,4,Confirmed,2026-04-25 00:00:00,Yes
+NEU100005,Kenji Oliveira,M.S. Data Analytics,Spring 2026,CS5500,Foundations of Software Engineering,4,Confirmed,2026-02-28 00:00:00,Yes
+NEU100005,Kenji Oliveira,M.S. Data Analytics,Spring 2026,IE7280,Statistical Methods in Engineering,4,Confirmed,2026-02-06 00:00:00,Yes
+NEU100006,Rahul Silva,M.S. Industrial Engineering,Spring 2026,CS5200,Database Management Systems,4,Confirmed,2026-01-26 00:00:00,Yes
+NEU100006,Rahul Silva,M.S. Industrial Engineering,Spring 2026,CS6220,Data Mining Techniques,4,Confirmed,2026-04-12 00:00:00,Yes
+NEU100006,Rahul Silva,M.S. Industrial Engineering,Spring 2026,IE7275,Data Mining in Engineering,4,Waitlisted,2026-02-21 00:00:00,Yes
+NEU100007,Ana Khan,M.S. Data Analytics,Spring 2026,IE6600,Computation and Visualization,4,Confirmed,2026-01-23 00:00:00,Yes
+NEU100007,Ana Khan,M.S. Data Analytics,Spring 2026,CS5010,Programming Design Paradigm,4,Confirmed,2026-04-10 00:00:00,Yes
+NEU100008,Liam Nakamura,M.S. Data Analytics,Fall 2025,CS5500,Foundations of Software Engineering,4,Confirmed,2026-01-19 00:00:00,Yes
+NEU100008,Liam Nakamura,M.S. Data Analytics,Fall 2025,CS5800,Algorithms,4,Confirmed,2026-01-08 00:00:00,Yes
+NEU100008,Liam Nakamura,M.S. Data Analytics,Fall 2025,CS5100,Foundations of AI,4,Pending,2026-02-11 00:00:00,No
+NEU100008,Liam Nakamura,M.S. Data Analytics,Fall 2025,DA6040,Data Engineering,4,Confirmed,2026-04-20 00:00:00,Yes
+NEU100009,Carlos Oliveira,M.S. Data Analytics,Fall 2025,DA6040,Data Engineering,4,Waitlisted,2026-03-27 00:00:00,No
+NEU100009,Carlos Oliveira,M.S. Data Analytics,Fall 2025,IE7300,Statistical Quality Control,4,Waitlisted,2026-03-10 00:00:00,Yes
+NEU100009,Carlos Oliveira,M.S. Data Analytics,Fall 2025,DA5030,Introduction to Machine Learning,4,Confirmed,2026-02-19 00:00:00,Yes
+NEU100009,Carlos Oliveira,M.S. Data Analytics,Fall 2025,CS5010,Programming Design Paradigm,4,Pending,2026-03-17 00:00:00,Yes
+NEU100010,Michael Gupta,M.S. Computer Science,Spring 2026,CS5200,Database Management Systems,4,Confirmed,2026-03-04 00:00:00,Yes
+NEU100010,Michael Gupta,M.S. Computer Science,Spring 2026,CS6220,Data Mining Techniques,4,Confirmed,2026-03-04 00:00:00,Yes
+NEU100011,James Williams,M.S. Data Analytics,Spring 2026,DA6350,MLOps,4,Confirmed,2026-04-01 00:00:00,Yes
+NEU100011,James Williams,M.S. Data Analytics,Spring 2026,IE7275,Data Mining in Engineering,4,Confirmed,2026-02-13 00:00:00,Yes
+NEU100012,Maria Garcia,M.S. Data Analytics,Spring 2026,DA5240,Statistical Learning,4,Waitlisted,2026-01-19 00:00:00,No
+NEU100012,Maria Garcia,M.S. Data Analytics,Spring 2026,DA6040,Data Engineering,4,Waitlisted,2026-02-16 00:00:00,No
+NEU100012,Maria Garcia,M.S. Data Analytics,Spring 2026,IE7200,Optimization Methods,4,Confirmed,2026-04-23 00:00:00,Yes
+NEU100012,Maria Garcia,M.S. Data Analytics,Spring 2026,CS5010,Programming Design Paradigm,4,Confirmed,2026-04-27 00:00:00,Yes
+NEU100013,Liam Silva,M.S. Computer Science,Spring 2026,IE7374,Deep Learning,4,Waitlisted,2026-03-15 00:00:00,No
+NEU100013,Liam Silva,M.S. Computer Science,Spring 2026,DA6100,Applied Probability and Statistics,4,Waitlisted,2026-02-16 00:00:00,Pending
+NEU100013,Liam Silva,M.S. Computer Science,Spring 2026,DA5240,Statistical Learning,4,Waitlisted,2026-01-15 00:00:00,Yes
+NEU100013,Liam Silva,M.S. Computer Science,Spring 2026,CS5010,Programming Design Paradigm,4,Pending,2026-01-28 00:00:00,No
+NEU100014,Sofia Williams,M.S. Data Analytics,Fall 2025,CS5800,Algorithms,4,Confirmed,2026-04-02 00:00:00,Yes
+NEU100014,Sofia Williams,M.S. Data Analytics,Fall 2025,CS6140,Machine Learning,4,Confirmed,2026-04-19 00:00:00,Yes
+NEU100014,Sofia Williams,M.S. Data Analytics,Fall 2025,DA5030,Introduction to Machine Learning,4,Confirmed,2026-04-24 00:00:00,Yes
+NEU100014,Sofia Williams,M.S. Data Analytics,Fall 2025,CS5200,Database Management Systems,4,Waitlisted,2026-03-10 00:00:00,Yes
+NEU100015,Carlos Rodriguez,M.S. Data Analytics,Spring 2026,CS6240,Large-Scale Parallel Data Processing,4,Confirmed,2026-01-10 00:00:00,Yes
+NEU100015,Carlos Rodriguez,M.S. Data Analytics,Spring 2026,CS5100,Foundations of AI,4,Confirmed,2026-02-17 00:00:00,Yes
+NEU100015,Carlos Rodriguez,M.S. Data Analytics,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-04-04 00:00:00,Yes
+NEU100016,Sarah Silva,M.S. Industrial Engineering,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-04-14 00:00:00,Yes
+NEU100016,Sarah Silva,M.S. Industrial Engineering,Spring 2026,CS6220,Data Mining Techniques,4,Confirmed,2026-01-11 00:00:00,Yes
+NEU100016,Sarah Silva,M.S. Industrial Engineering,Spring 2026,IE6600,Computation and Visualization,4,Pending,2026-04-19 00:00:00,Yes
+NEU100016,Sarah Silva,M.S. Industrial Engineering,Spring 2026,CS5100,Foundations of AI,4,Confirmed,2026-02-03 00:00:00,Yes
+NEU100017,Dev Nakamura,M.S. Data Analytics,Spring 2026,CS5500,Foundations of Software Engineering,4,Waitlisted,2026-01-24 00:00:00,Yes
+NEU100017,Dev Nakamura,M.S. Data Analytics,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-03-26 00:00:00,Yes
+NEU100017,Dev Nakamura,M.S. Data Analytics,Spring 2026,IE7374,Deep Learning,4,Pending,2026-01-09 00:00:00,No
+NEU100018,Emma Hassan,M.S. Computer Science,Fall 2025,IE7275,Data Mining in Engineering,4,Confirmed,2026-03-12 00:00:00,Yes
+NEU100018,Emma Hassan,M.S. Computer Science,Fall 2025,IE7280,Statistical Methods in Engineering,4,Confirmed,2026-03-01 00:00:00,Yes
+NEU100018,Emma Hassan,M.S. Computer Science,Fall 2025,CS6240,Large-Scale Parallel Data Processing,4,Pending,2026-02-07 00:00:00,No
+NEU100019,Rahul Smith,M.S. Data Analytics,Spring 2026,DA6350,MLOps,4,Confirmed,2026-04-07 00:00:00,Yes
+NEU100019,Rahul Smith,M.S. Data Analytics,Spring 2026,DA5030,Introduction to Machine Learning,4,Confirmed,2026-01-27 00:00:00,Yes
+NEU100019,Rahul Smith,M.S. Data Analytics,Spring 2026,CS5200,Database Management Systems,4,Waitlisted,2026-04-28 00:00:00,Yes
+NEU100020,Aisha Brown,M.S. Industrial Engineering,Spring 2026,IE7275,Data Mining in Engineering,4,Waitlisted,2026-02-21 00:00:00,Yes
+NEU100020,Aisha Brown,M.S. Industrial Engineering,Spring 2026,IE7374,Deep Learning,4,Confirmed,2026-04-21 00:00:00,Yes
+NEU100021,James Johnson,M.S. Computer Science,Spring 2026,DA5240,Statistical Learning,4,Waitlisted,2026-02-24 00:00:00,Yes
+NEU100021,James Johnson,M.S. Computer Science,Spring 2026,DA5220,Data Mining,4,Pending,2026-01-23 00:00:00,Pending
+NEU100021,James Johnson,M.S. Computer Science,Spring 2026,IE7300,Statistical Quality Control,4,Confirmed,2026-01-17 00:00:00,Yes
+NEU100021,James Johnson,M.S. Computer Science,Spring 2026,CS6220,Data Mining Techniques,4,Confirmed,2026-04-25 00:00:00,Yes
+NEU100022,Emma Brown,M.S. Computer Science,Fall 2025,DA5110,Data Management for Engineering,4,Pending,2026-03-13 00:00:00,Pending
+NEU100022,Emma Brown,M.S. Computer Science,Fall 2025,DA6040,Data Engineering,4,Waitlisted,2026-04-02 00:00:00,Pending
+NEU100023,Aisha Rodriguez,M.S. Data Analytics,Fall 2025,CS6240,Large-Scale Parallel Data Processing,4,Confirmed,2026-04-21 00:00:00,Yes
+NEU100023,Aisha Rodriguez,M.S. Data Analytics,Fall 2025,DA5020,Collecting Storing and Retrieving Data,4,Confirmed,2026-03-18 00:00:00,Yes
+NEU100023,Aisha Rodriguez,M.S. Data Analytics,Fall 2025,CS6140,Machine Learning,4,Confirmed,2026-02-07 00:00:00,Yes
+NEU100024,James Khan,M.S. Data Analytics,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-03-26 00:00:00,Yes
+NEU100024,James Khan,M.S. Data Analytics,Spring 2026,IE7374,Deep Learning,4,Confirmed,2026-03-17 00:00:00,Yes
+NEU100025,Liam Williams,M.S. Industrial Engineering,Spring 2026,IE7300,Statistical Quality Control,4,Confirmed,2026-01-09 00:00:00,Yes
+NEU100025,Liam Williams,M.S. Industrial Engineering,Spring 2026,IE6600,Computation and Visualization,4,Pending,2026-01-13 00:00:00,No
+NEU100025,Liam Williams,M.S. Industrial Engineering,Spring 2026,CS5800,Algorithms,4,Waitlisted,2026-01-08 00:00:00,No
+NEU100025,Liam Williams,M.S. Industrial Engineering,Spring 2026,DA6040,Data Engineering,4,Confirmed,2026-04-27 00:00:00,Yes
+NEU100026,Zara Johnson,M.S. Data Analytics,Fall 2025,IE7374,Deep Learning,4,Confirmed,2026-04-16 00:00:00,Yes
+NEU100026,Zara Johnson,M.S. Data Analytics,Fall 2025,IE7275,Data Mining in Engineering,4,Pending,2026-01-21 00:00:00,No
+NEU100026,Zara Johnson,M.S. Data Analytics,Fall 2025,DA5020,Collecting Storing and Retrieving Data,4,Confirmed,2026-04-27 00:00:00,Yes
+NEU100026,Zara Johnson,M.S. Data Analytics,Fall 2025,CS5500,Foundations of Software Engineering,4,Confirmed,2026-04-11 00:00:00,Yes
+NEU100027,Liam Silva,M.S. Data Analytics,Fall 2025,DA5240,Statistical Learning,4,Confirmed,2026-01-04 00:00:00,Yes
+NEU100027,Liam Silva,M.S. Data Analytics,Fall 2025,CS5200,Database Management Systems,4,Waitlisted,2026-01-11 00:00:00,Pending
+NEU100027,Liam Silva,M.S. Data Analytics,Fall 2025,CS5800,Algorithms,4,Confirmed,2026-02-27 00:00:00,Yes
+NEU100028,Wei Oliveira,M.S. Computer Science,Spring 2026,IE6600,Computation and Visualization,4,Confirmed,2026-03-05 00:00:00,Yes
+NEU100028,Wei Oliveira,M.S. Computer Science,Spring 2026,DA5020,Collecting Storing and Retrieving Data,4,Confirmed,2026-01-25 00:00:00,Yes
+NEU100028,Wei Oliveira,M.S. Computer Science,Spring 2026,CS5200,Database Management Systems,4,Confirmed,2026-04-08 00:00:00,Yes
+NEU100029,Liam Garcia,M.S. Computer Science,Spring 2026,IE7280,Statistical Methods in Engineering,4,Confirmed,2026-02-01 00:00:00,Yes
+NEU100029,Liam Garcia,M.S. Computer Science,Spring 2026,IE7300,Statistical Quality Control,4,Confirmed,2026-03-05 00:00:00,Yes
+NEU100029,Liam Garcia,M.S. Computer Science,Spring 2026,IE6600,Computation and Visualization,4,Waitlisted,2026-02-23 00:00:00,Yes
+NEU100030,Sarah Rodriguez,M.S. Data Analytics,Fall 2025,DA6040,Data Engineering,4,Waitlisted,2026-01-16 00:00:00,No
+NEU100030,Sarah Rodriguez,M.S. Data Analytics,Fall 2025,IE7280,Statistical Methods in Engineering,4,Waitlisted,2026-04-18 00:00:00,No
+NEU100030,Sarah Rodriguez,M.S. Data Analytics,Fall 2025,CS5100,Foundations of AI,4,Waitlisted,2026-01-20 00:00:00,Pending
+NEU100030,Sarah Rodriguez,M.S. Data Analytics,Fall 2025,DA5020,Collecting Storing and Retrieving Data,4,Confirmed,2026-02-06 00:00:00,Yes
+NEU100031,Yuki Zhang,M.S. Computer Science,Fall 2025,DA6100,Applied Probability and Statistics,4,Confirmed,2026-04-01 00:00:00,Yes
+NEU100031,Yuki Zhang,M.S. Computer Science,Fall 2025,DA5220,Data Mining,4,Confirmed,2026-03-13 00:00:00,Yes
+NEU100031,Yuki Zhang,M.S. Computer Science,Fall 2025,DA6040,Data Engineering,4,Confirmed,2026-03-22 00:00:00,Yes
+NEU100031,Yuki Zhang,M.S. Computer Science,Fall 2025,DA5020,Collecting Storing and Retrieving Data,4,Confirmed,2026-04-21 00:00:00,Yes
+NEU100032,Aarav Tanaka,M.S. Data Analytics,Spring 2026,CS5100,Foundations of AI,4,Waitlisted,2026-02-24 00:00:00,No
+NEU100032,Aarav Tanaka,M.S. Data Analytics,Spring 2026,IE7275,Data Mining in Engineering,4,Confirmed,2026-02-22 00:00:00,Yes
+NEU100033,Olivia Zhang,M.S. Data Analytics,Fall 2025,DA6100,Applied Probability and Statistics,4,Pending,2026-03-23 00:00:00,Yes
+NEU100033,Olivia Zhang,M.S. Data Analytics,Fall 2025,CS6220,Data Mining Techniques,4,Confirmed,2026-01-08 00:00:00,Yes
+NEU100033,Olivia Zhang,M.S. Data Analytics,Fall 2025,DA5220,Data Mining,4,Confirmed,2026-01-28 00:00:00,Yes
+NEU100034,Aarav Brown,M.S. Industrial Engineering,Fall 2025,DA5020,Collecting Storing and Retrieving Data,4,Waitlisted,2026-01-26 00:00:00,Pending
+NEU100034,Aarav Brown,M.S. Industrial Engineering,Fall 2025,DA5030,Introduction to Machine Learning,4,Confirmed,2026-02-23 00:00:00,Yes
+NEU100035,Zara Anderson,M.S. Data Analytics,Fall 2025,CS5200,Database Management Systems,4,Waitlisted,2026-03-17 00:00:00,Pending
+NEU100035,Zara Anderson,M.S. Data Analytics,Fall 2025,IE7374,Deep Learning,4,Pending,2026-01-24 00:00:00,No
+NEU100035,Zara Anderson,M.S. Data Analytics,Fall 2025,DA5030,Introduction to Machine Learning,4,Pending,2026-01-22 00:00:00,Yes
+NEU100036,Dev Rodriguez,M.S. Data Analytics,Spring 2026,DA6350,MLOps,4,Confirmed,2026-04-07 00:00:00,Yes
+NEU100036,Dev Rodriguez,M.S. Data Analytics,Spring 2026,DA5030,Introduction to Machine Learning,4,Waitlisted,2026-04-09 00:00:00,Yes
+NEU100036,Dev Rodriguez,M.S. Data Analytics,Spring 2026,IE7275,Data Mining in Engineering,4,Waitlisted,2026-03-06 00:00:00,Pending
+NEU100036,Dev Rodriguez,M.S. Data Analytics,Spring 2026,CS6140,Machine Learning,4,Confirmed,2026-04-05 00:00:00,Yes
+NEU100037,Aarav Sharma,M.S. Data Analytics,Fall 2025,DA6350,MLOps,4,Confirmed,2026-02-06 00:00:00,Yes
+NEU100037,Aarav Sharma,M.S. Data Analytics,Fall 2025,CS5800,Algorithms,4,Confirmed,2026-01-01 00:00:00,Yes
+NEU100038,Sarah Johnson,M.S. Computer Science,Spring 2026,DA6100,Applied Probability and Statistics,4,Confirmed,2026-04-03 00:00:00,Yes
+NEU100038,Sarah Johnson,M.S. Computer Science,Spring 2026,CS5200,Database Management Systems,4,Waitlisted,2026-02-21 00:00:00,Yes
+NEU100038,Sarah Johnson,M.S. Computer Science,Spring 2026,IE7374,Deep Learning,4,Confirmed,2026-03-14 00:00:00,Yes
+NEU100038,Sarah Johnson,M.S. Computer Science,Spring 2026,DA5030,Introduction to Machine Learning,4,Confirmed,2026-01-08 00:00:00,Yes
+NEU100039,Sarah Tanaka,M.S. Industrial Engineering,Spring 2026,CS5500,Foundations of Software Engineering,4,Confirmed,2026-02-06 00:00:00,Yes
+NEU100039,Sarah Tanaka,M.S. Industrial Engineering,Spring 2026,IE7300,Statistical Quality Control,4,Confirmed,2026-01-06 00:00:00,Yes
+NEU100039,Sarah Tanaka,M.S. Industrial Engineering,Spring 2026,CS6220,Data Mining Techniques,4,Confirmed,2026-02-07 00:00:00,Yes
+NEU100040,Maria Tanaka,M.S. Industrial Engineering,Fall 2025,CS5010,Programming Design Paradigm,4,Waitlisted,2026-02-25 00:00:00,No
+NEU100040,Maria Tanaka,M.S. Industrial Engineering,Fall 2025,CS6220,Data Mining Techniques,4,Waitlisted,2026-04-28 00:00:00,No
+NEU100040,Maria Tanaka,M.S. Industrial Engineering,Fall 2025,CS5200,Database Management Systems,4,Confirmed,2026-04-17 00:00:00,Yes
+NEU100040,Maria Tanaka,M.S. Industrial Engineering,Fall 2025,IE7275,Data Mining in Engineering,4,Confirmed,2026-02-07 00:00:00,Yes
+NEU100041,Ana Gupta,M.S. Computer Science,Fall 2025,CS6240,Large-Scale Parallel Data Processing,4,Pending,2026-03-25 00:00:00,Pending
+NEU100041,Ana Gupta,M.S. Computer Science,Fall 2025,CS6220,Data Mining Techniques,4,Pending,2026-01-25 00:00:00,No
+NEU100042,James Khan,M.S. Computer Science,Fall 2025,DA5020,Collecting Storing and Retrieving Data,4,Confirmed,2026-04-03 00:00:00,Yes
+NEU100042,James Khan,M.S. Computer Science,Fall 2025,CS5500,Foundations of Software Engineering,4,Confirmed,2026-04-14 00:00:00,Yes
+NEU100042,James Khan,M.S. Computer Science,Fall 2025,DA6040,Data Engineering,4,Confirmed,2026-01-23 00:00:00,Yes
+NEU100042,James Khan,M.S. Computer Science,Fall 2025,CS6140,Machine Learning,4,Confirmed,2026-03-20 00:00:00,Yes
+NEU100043,Rahul Patel,M.S. Data Analytics,Spring 2026,IE7275,Data Mining in Engineering,4,Confirmed,2026-04-22 00:00:00,Yes
+NEU100043,Rahul Patel,M.S. Data Analytics,Spring 2026,CS6240,Large-Scale Parallel Data Processing,4,Waitlisted,2026-02-19 00:00:00,No
+NEU100043,Rahul Patel,M.S. Data Analytics,Spring 2026,CS5800,Algorithms,4,Confirmed,2026-01-07 00:00:00,Yes
+NEU100043,Rahul Patel,M.S. Data Analytics,Spring 2026,CS6140,Machine Learning,4,Waitlisted,2026-01-28 00:00:00,No
+NEU100044,Sofia Davis,M.S. Industrial Engineering,Spring 2026,DA5220,Data Mining,4,Pending,2026-01-03 00:00:00,No
+NEU100044,Sofia Davis,M.S. Industrial Engineering,Spring 2026,CS6140,Machine Learning,4,Confirmed,2026-01-12 00:00:00,Yes
+NEU100045,Sarah Oliveira,M.S. Computer Science,Fall 2025,IE6600,Computation and Visualization,4,Confirmed,2026-01-16 00:00:00,Yes
+NEU100045,Sarah Oliveira,M.S. Computer Science,Fall 2025,DA5110,Data Management for Engineering,4,Confirmed,2026-04-01 00:00:00,Yes
+NEU100046,Michael Nakamura,M.S. Data Analytics,Spring 2026,CS5100,Foundations of AI,4,Confirmed,2026-04-25 00:00:00,Yes
+NEU100046,Michael Nakamura,M.S. Data Analytics,Spring 2026,DA5240,Statistical Learning,4,Confirmed,2026-03-20 00:00:00,Yes
+NEU100046,Michael Nakamura,M.S. Data Analytics,Spring 2026,IE6600,Computation and Visualization,4,Confirmed,2026-02-11 00:00:00,Yes
+NEU100046,Michael Nakamura,M.S. Data Analytics,Spring 2026,CS6240,Large-Scale Parallel Data Processing,4,Waitlisted,2026-01-25 00:00:00,Pending
+NEU100047,Michael Khan,M.S. Computer Science,Spring 2026,IE7200,Optimization Methods,4,Confirmed,2026-04-06 00:00:00,Yes
+NEU100047,Michael Khan,M.S. Computer Science,Spring 2026,CS6140,Machine Learning,4,Confirmed,2026-04-27 00:00:00,Yes
+NEU100048,James Khan,M.S. Industrial Engineering,Spring 2026,IE7275,Data Mining in Engineering,4,Confirmed,2026-02-12 00:00:00,Yes
+NEU100048,James Khan,M.S. Industrial Engineering,Spring 2026,IE7300,Statistical Quality Control,4,Confirmed,2026-04-22 00:00:00,Yes
+NEU100049,Liam Anderson,M.S. Data Analytics,Spring 2026,CS5800,Algorithms,4,Confirmed,2026-03-24 00:00:00,Yes
+NEU100049,Liam Anderson,M.S. Data Analytics,Spring 2026,DA6350,MLOps,4,Confirmed,2026-03-22 00:00:00,Yes
+NEU100049,Liam Anderson,M.S. Data Analytics,Spring 2026,CS5200,Database Management Systems,4,Confirmed,2026-02-21 00:00:00,Yes
+NEU100049,Liam Anderson,M.S. Data Analytics,Spring 2026,DA6040,Data Engineering,4,Confirmed,2026-03-24 00:00:00,Yes

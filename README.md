@@ -59,7 +59,7 @@ CSV files were exported from Excel and imported into Tableau to build summary re
 
 Reports were designed so academic staff could identify planning issues at a glance — without needing to cross-reference multiple spreadsheets manually.
 
-🔗 **Tableau Dashboard:** https://public.tableau.com/app/profile/kapish.gupta/viz/AcademicCourseDataTracking/Dashboard1
+🔗 **Tableau Dashboard:** https://public.tableau.com/app/profile/kapish.gupta/viz/AcademicCourseDataTracking/AcademicCourseDataTrackingSummaryRepor?publish=yes
 
 ## Data
 
